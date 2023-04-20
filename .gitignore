@@ -2,4 +2,6 @@
 *.MP4
 *.mkv
 *.MKV
+*.mp3
+*.webm
 .DS_Store
