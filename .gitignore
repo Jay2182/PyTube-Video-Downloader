@@ -4,4 +4,6 @@
 *.MKV
 *.mp3
 *.webm
+
+venv
 .DS_Store
